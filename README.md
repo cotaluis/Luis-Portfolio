@@ -3,8 +3,8 @@
 ## Description
 
 ## Mock up
-![alt employee portfolio website](/images/mockup.png)
+![alt employee portfolio website](/Images/mockup.png)
 
 ## Deployedlinks
 github repo - https://github.com/cotaluis/Luis-Portfolio
-deploy - 
+deploy - https://cotaluis.github.io/Luis-Portfolio/
